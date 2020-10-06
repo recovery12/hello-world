@@ -4,10 +4,12 @@ my name is vag
 
 Current languages are:
 
-* c
+* C
 
-* py
+* Py
 
-* java
+* Java
 
-* html
+* HTML
+
+* Octave
